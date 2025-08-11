@@ -1,0 +1,216 @@
+Name -->                           <div class="DrugHeader__header-content___f6GbC">
+                            <div class="DrugHeader__lower-content___2CZFo">
+                              <div class="DrugHeader__left___19WY-">
+                                <h1 class="DrugHeader__title-content___2ZaPo">Avastin 100mg Injection</h1>
+                              </div>
+                              <div class="DrugHeader__right___3T3G5"></div>
+                            </div>
+                          </div>
+
+Manufacturer -->                                 <div class="DrugHeader__meta___B3BcU">
+                                  <div class="DrugHeader__meta-title___22zXC">Marketer</div>
+                                  <div class="DrugHeader__meta-value___vqYM0"><a
+                                      href="/marketer/roche-products-india-pvt-ltd-72984">Roche Products India Pvt
+                                      Ltd</a></div>
+                                </div>
+
+ImageURi --> <div class="card-slide" data-index="0" style="width:100%;display:inline-block"
+                                            tabindex="-1">
+                                            <div class="style__container___3DB0z">
+                                              <div class="">
+                                              <img alt="Avastin 100mg Injection" src-"https://onemg.gumlet.io/l_watermark 346,w_240,h_240/a_ignore,w_240,h_240,c_fit,q_auto,f_auto/hx2gxivwmeox< xxsc1hix.png" title="Avastin 100mg Injection" class="style image Ny-Sa style loaded 22epl"> == $0
+                                              </div>
+                                            </div>
+                                          </div>
+
+
+description(Just the text inside the div after product description. Some are inside p tag, some are not) -->                             <div class="DrugOverview__container___CqA8x">
+                              <h2 class="DrugOverview__title___1OwgG">Product introduction</h2>
+                              <div class="DrugOverview__content___22ZBX">Avastin 100mg Injection is an anticancer
+                                medication. It is used in the treatment of cancer of colon and rectum, non-small cell
+                                lung cancer, kidney cancer, brain tumor, ovarian and cervical cancer. It helps to
+                                prevent the growth of new blood vessels that feed tumors and stops tumors from growing.
+                                <br><br>
+                                <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span
+                                    style="font-size: 10.5pt; font-family: Arial; color: #666666; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Avastin
+                                    100mg Injection is an effective medicine, first-line option when used together with
+                                    other cancer medicines. It is given as an infusion. That means you get it through a
+                                    small needle in your vein or through a port, which is a device placed under your
+                                    skin. The doctor will decide your dose and duration and will check you for signs of
+                                    an infusion reaction such as high blood pressure and trouble breathing. You keep
+                                    taking Avastin 100mg Injection as long as your disease is controlled and your side
+                                    effects are manageable. Your doctor will determine whether you should stop taking it
+                                    or not. You may be advised to check blood pressure and levels of protein in urine
+                                    while you are taking this medication.</span></p><br /><br /><br />
+                                <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span
+                                    style="font-size: 10.5pt; font-family: Arial; color: #666666; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The
+                                    most common side effects of this medicine include rectal bleeding, taste change, and
+                                    headache. Inform your doctor that you are taking this medication before undergoing
+                                    any surgical procedure, as the drug has ability to lower the ability of wound
+                                    healing. Other than this, it also enhances your risk of bleeding thus if you notice
+                                    any unusual bleeding or bleeding consult with your doctor immediately.</span></p>
+                                <br /><br /><br />
+                                <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span
+                                    style="font-size: 10.5pt; font-family: Arial; color: #666666; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Inform
+                                    your doctor if you are pregnant, planning pregnancy or breastfeeding. Many other
+                                    medicines can affect, or be affected by, this medicine so let your healthcare team
+                                    know all medications you are using.</span></p><br /><br /><br />
+                                <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span
+                                    style="font-size: 10.5pt; font-family: Arial; color: #666666; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">There
+                                    is a Patient Support Program/Patient Assistance Program available in India for this
+                                    medicine, being managed by Tata 1mg. Please contact your prescribing doctor to know
+                                    more about the same. You may also call on (1800-102-1618) for more details.</span>
+                                </p>
+                              </div>
+                            </div>
+
+Uses -->                           <div class="DrugOverview__container___CqA8x">
+                            <h2 class="DrugOverview__title___1OwgG">Uses of Avastin Injection</h2>
+                            <div class="DrugOverview__content___22ZBX">
+                              <ul class="DrugOverview__list___1HjxR DrugOverview__uses___1jmC3">
+                                <li><a href="/diseases/cancer-of-colon-and-rectum-222">Cancer of colon and rectum</a>
+                                </li>
+                                <li><a href="/diseases/non-small-cell-lung-cancer-298">Non-small cell lung cancer</a>
+                                </li>
+                                <li><a href="/diseases/ovarian-cancer-225">Ovarian cancer</a></li>
+                                <li><a href="/diseases/cervical-cancer-228">Cervical cancer</a></li>
+                                <li><a href="/diseases/brain-tumor-297">Brain tumor</a></li>
+                                <li><a href="/diseases/kidney-cancer-230">Kidney cancer</a></li>
+                              </ul>
+                            </div>
+                          </div>
+
+composition -->                                 <div class="DrugHeader__meta___B3BcU">
+                                  <div class="DrugHeader__meta-title___22zXC">SALT COMPOSITION</div>
+                                  <div class="saltInfo DrugHeader__meta-value___vqYM0"><a
+                                      href='/generics/bevacizumab-209448'>Bevacizumab (100mg)</a></div>
+                                </div>
+
+side effects -->                           <div class="DrugOverview__container___CqA8x">
+                            <h2 class="DrugOverview__title___1OwgG DrugOverview__bottom-padding-sm___3gOgF">Side effects
+                              of Avastin Injection</h2>
+                            <div class="DrugOverview__content___22ZBX">Most side effects do not require any medical
+                              attention and disappear as your body adjusts to the medicine. Consult your doctor if they
+                              persist or if you’re worried about them</div>
+                            <div class="DrugOverview__content___22ZBX">
+                              <h3 class="DrugOverview__tag___fooLQ">Common side effects of Avastin</h3>
+                              <div class="DrugOverview__list-container___2eAr6 DrugOverview__content___22ZBX">
+                                <ul>
+                                  <li>Nosebleeds</li>
+                                  <li>Headache</li>
+                                  <li>High blood pressure</li>
+                                  <li>Inflammation of the nose</li>
+                                  <li>Protein in urine</li>
+                                  <li>Taste change</li>
+                                  <li>Dry skin</li>
+                                  <li>Hemorrhage</li>
+                                  <li>Increased lacrimation</li>
+                                  <li>Back pain</li>
+                                  <li>Exfoliative dermatitis</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+
+
+quick_tips -->                     <div id="expert_advice">
+                      <div class="DrugPane__title___1YpP9">
+                        <h2>Quick tips</h2>
+                      </div>
+                      <div class="DrugPane__content___3-yrB">
+                        <div class="style__desktop-container___1hcBT">
+                          <div class="style__desktop-video___2GTR9">
+                            <div class="styles__video-img___1rCzR">
+                              <div class=""></div>
+                              <div class=""></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <div class="ExpertAdviceItem__content___1Djk2">
+                                    <ul>
+                                      <li>Avastin 100mg Injection is an effective, first-line option when used together
+                                        with other medicines for certain types of cancers such as colorectal, lung,
+                                        cervical, and kidney cancers.</li>
+                                      <li>Avastin 100mg Injection is given as an infusion. Your doctor or nurse will
+                                        monitor you for signs of an infusion reaction such as high blood pressure and
+                                        trouble breathing.</li>
+                                      <li>It can lower your wound healing ability. Inform your doctor that you are
+                                        taking this medication before undergoing any surgical procedure.</li>
+                                      <li>It can increase the risk of bleeding. Inform your doctor if you notice any
+                                        unusual bleeding or bleeding that doesn't stop easily.</li>
+                                      <li>Your doctor may regularly check your blood pressure and levels of protein in
+                                        your urine while you are on Avastin 100mg Injection.</li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+price)here the real price is the pricve just above the line Inclusivwe of all taxes
+                                <div>
+                                  <div><span class="DrugPriceBox__nonslashed-mrp-tag___3vRXl">MRP</span><span
+                                      class="DrugPriceBox__slashed-price___2UGqd">₹<!-- -->33863<!-- -->  </span><span
+                                      class="DrugPriceBox__slashed-percent___G92cz">20<!-- -->% OFF</span></div>
+                                  <div class="DrugPriceBox__price___dj2lv">
+                                    <div class="DrugPriceBox__best-price-tag___qzmi8"></div>
+                                    <div class="DrugPriceBox__best-price___32JXw">₹<!-- -->27090</div>
+                                  </div>
+                                  <div class="DrugPriceBox__inclusive-text___38HVp">Inclusive of all taxes</div>
+                                </div>
+                                <div class="DrugPriceBox__qty-wrapper___1RBzv">
+                                  <div class="DrugPriceBox__strips___2c9wA">
+                                    <div class=""><button aria-label="Select quantity"
+                                        class="styles__ariaButton___1ApsV  ">
+                                        <div class="Dropdown__dropdown___2Gnd_">
+                                          <div id="dropdown-135666" style="max-width:100%"
+                                            class="Dropdown__display-text___15dWa">1 Vial</div>
+                                          <div class="svg-image undefined"
+                                            style="display:inline-block;margin-left:4px;float:"><svg width="8px"
+                                              height="8px" viewBox="0 0 10 5">
+                                              <defs></defs>
+                                              <g id="Page-1" stroke="none" stroke-width="1" fill="none"
+                                                fill-rule="evenodd" opacity="0.54">
+                                                <g id="Use-Case-11-drop-down-for-varients"
+                                                  transform="translate(-775.000000, -454.000000)" fill="#000000">
+                                                  <g id="medicine-buying-card"
+                                                    transform="translate(685.000000, 314.000000)">
+                                                    <g id="Group-9">
+                                                      <g id="Material/Icons-black/arrow-drop-down"
+                                                        transform="translate(83.000000, 130.000000)">
+                                                        <polygon id="Shape" points="7 10 12 15 17 10"></polygon>
+                                                      </g>
+                                                    </g>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </svg></div>
+                                        </div>
+                                      </button></div>
+                                  </div>
+                                  <div class="DrugPriceBox__quantity___2LGBX">1.0 Injection in 1 vial</div>
+                                </div>
+                                <div class="DrugPriceBox__add-box___oLSmS">
+                                  <div class="DrugAddToCart__add-to-cart___Qcxup">
+                                    <div class="style__cart-button___3CZnL"><button aria-label="Add to cart"
+                                        class="styles__ariaButton___1ApsV  ">
+                                        <div class="style__interaction___3cb12 style__drugPage-AddToCart___3Ql67">Add to
+                                          cart</div>
+                                      </button></div>
+                                  </div>
+                                </div>
+                                <div>
+                                  <div></div>
+                                </div>
+                                <div class="DrugPriceBox__specifications___9ncGa">
+                                  <div style="color:#8c8c8c;font-size:10px;margin-bottom:4px">Online payment only</div>
+                                  <div style="color:#8c8c8c;font-size:10px;margin-bottom:4px">Not returnable <a
+                                      href='/return-policy'>Read policy</a></div>
+                                </div>
+                              </div>

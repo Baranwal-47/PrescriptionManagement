@@ -1,0 +1,58 @@
+To integrate the OCR.space API into your Replit project, follow these steps:
+
+1. **Obtain a Free API Key**:
+   - Visit [https://ocr.space/ocrapi](https://ocr.space/ocrapi) and register to receive your free API key.
+
+2. **Install Required Packages**:
+   - For **Node.js** projects, install the `ocr-space-api-wrapper` package:
+     ```bash
+     npm install ocr-space-api-wrapper
+     ```
+   - For **Python** projects, install the `requests` library (if not already installed):
+     ```bash
+     pip install requests
+     ```
+
+3. **Implement the OCR Functionality**:
+   - **Node.js Example**:
+     ```javascript
+     const { ocrSpace } = require('ocr-space-api-wrapper');
+
+     async function performOCR() {
+       try {
+         const result = await ocrSpace('path_to_your_image.jpg', { apiKey: 'your_api_key' });
+         console.log(result.OCRExitCode, result.ParsedResults[0].ParsedText);
+       } catch (error) {
+         console.error('Error:', error);
+       }
+     }
+
+     performOCR();
+     ```
+     *Source: [ocr-space-api-wrapper on GitHub](https://github.com/DavideViolante/ocr-space-api-wrapper)*
+
+   - **Python Example**:
+     ```python
+     import requests
+
+     def ocr_space_file(filename, api_key):
+         payload = {'apikey': api_key}
+         with open(filename, 'rb') as f:
+             r = requests.post('https://api.ocr.space/parse/image',
+                               files={filename: f},
+                               data=payload,
+                               )
+         return r.json()
+
+     result = ocr_space_file('path_to_your_image.jpg', 'your_api_key')
+     print(result['ParsedResults'][0]['ParsedText'])
+     ```
+     *Source: [Stack Overflow](https://stackoverflow.com/questions/48916572/ocr-space-api-python)*
+
+4. **Secure Your API Key**:
+   - Store your API key securely using environment variables in Replit to prevent exposing it in your codebase.
+
+5. **Test the Integration**:
+   - Upload an image file to your Replit project and run the script to ensure the OCR functionality works as expected.
+
+By following these steps, you can effectively integrate the OCR.space API into your Replit project to perform OCR on images and PDFs. 
